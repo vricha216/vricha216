@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I love building backend systems, automation tools,
 
 - Developed a platform for international education consultants to manage student applications.  
 - Integrated:
-  - 💬 **Live Chat**
+  - 💬 **Comment Box**
   - 📧 **Email Communication**
   - 💳 **Payment Gateway**
 - CRUD operations for student profiles, document uploads, application tracking, and more.
